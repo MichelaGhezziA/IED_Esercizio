@@ -1,6 +1,6 @@
 
 
-alert('Choose the mathematical operation you want:');
+alert('Choose the operation you want:');
 
 
 var mathematics = prompt('+ - / *');
