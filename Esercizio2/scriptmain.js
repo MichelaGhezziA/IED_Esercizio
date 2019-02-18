@@ -24,7 +24,7 @@ function minus(){
 }
 
 function division(){
-    var ri = firstNumber / secondNumber;
+    var ris = firstNumber / secondNumber;
     alert('The result is: ' + ris);
 }
 
